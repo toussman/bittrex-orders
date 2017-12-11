@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--	 
+	Bittrex Orders
+	Generated 11/29/2017 13:51:59
+	v1.0-->
+<Coins>
+  <Currency Name="BTC">
+    <Balance>
+      <Balance>0.41109413</Balance>
+      <Available>0.41109413</Available>
+      <Pending>0.00000000</Pending>
+      <CryptoAddress>1KWfcpyJbSvJVQLShJxwTFPDoBiEgjqHnS</CryptoAddress>
+    </Balance>
+  </Currency>
+  <Currency Name="GAME">
+    <Balance>
+      <Balance>800.00000000</Balance>
+      <Available>800.00000000</Available>
+      <Pending>
+      </Pending>
+      <CryptoAddress>
+      </CryptoAddress>
+      <market>BTC-GAME</market>
+    </Balance>
+    <Order>
+      <OrderGuid>560835e3-085e-46cb-851c-381bf018e813</OrderGuid>
+      <Market>BTC-GAME</Market>
+      <Currency>GAME</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00042215</Rate>
+      <LimitRate>0.00017954</LimitRate>
+      <Qty>25%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 18:15:36UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>78a49e7c-56dc-4f4f-b077-3723be94e612</OrderGuid>
+      <Market>BTC-GAME</Market>
+      <Currency>GAME</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00068878</Rate>
+      <LimitRate>0.00068878</LimitRate>
+      <Qty>50%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 21:33:52UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>a608feef-dcbf-4d84-9e5d-6b11c93f1354</OrderGuid>
+      <Market>BTC-GAME</Market>
+      <Currency>GAME</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00084647</Rate>
+      <LimitRate>0.00084647</LimitRate>
+      <Qty>50%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 21:34:24UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>d7eae0ff-28a6-4e63-ad65-daf6656e7b26</OrderGuid>
+      <Market>BTC-GAME</Market>
+      <Currency>GAME</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00105166</Rate>
+      <LimitRate>0.00105166</LimitRate>
+      <Qty>100%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 21:34:48UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+  </Currency>
+  <Currency Name="MANA">
+    <Balance>
+      <Balance>36800.00000000</Balance>
+      <Available>36800.00000000</Available>
+      <Pending>
+      </Pending>
+      <CryptoAddress>
+      </CryptoAddress>
+      <market>BTC-MANA</market>
+    </Balance>
+    <Order>
+      <OrderGuid>7f2e8174-eec4-4bd1-84ef-73b8b78c3a05</OrderGuid>
+      <Market>BTC-MANA</Market>
+      <Currency>MANA</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00000699</Rate>
+      <LimitRate>0.00000699</LimitRate>
+      <Qty>10%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 22:15:52UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>7529163a-2c9f-4e55-9083-4b3f812a8c9d</OrderGuid>
+      <Market>BTC-MANA</Market>
+      <Currency>MANA</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00000711</Rate>
+      <LimitRate>0.00000711</LimitRate>
+      <Qty>10%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 22:16:09UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+  </Currency>
+  <Currency Name="NLG">
+    <Balance>
+      <Balance>330.20700280</Balance>
+      <Available>330.20700280</Available>
+      <Pending>
+      </Pending>
+      <CryptoAddress>
+      </CryptoAddress>
+      <market>BTC-NLG</market>
+    </Balance>
+    <Order>
+      <OrderGuid>886df2f8-833f-4ff7-a557-7915adc1a6cf</OrderGuid>
+      <Market>BTC-NLG</Market>
+      <Currency>NLG</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00000998</Rate>
+      <LimitRate>0.00000998</LimitRate>
+      <Qty>75%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-10 22:31:35UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+  </Currency>
+  <Currency Name="GRS">
+    <Balance>
+      <Balance>3100.00000000</Balance>
+      <Available>3100.00000000</Available>
+      <Pending>
+      </Pending>
+      <CryptoAddress>
+      </CryptoAddress>
+      <market>BTC-GRS</market>
+    </Balance>
+    <Order>
+      <OrderGuid>eef241b7-91b4-43b6-9485-25eec6eb9cc7</OrderGuid>
+      <Market>BTC-GRS</Market>
+      <Currency>GRS</Currency>
+      <Type>StopLoss</Type>
+      <Rate>0.000055</Rate>
+      <LimitRate>0.0000495</LimitRate>
+      <Qty>All</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>
+      </Action>
+      <OrderOpenDate>2017-12-11 09:47:39UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>202e88c3-ba4b-48bd-98cd-6d041022e120</OrderGuid>
+      <Market>BTC-GRS</Market>
+      <Currency>GRS</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00006795</Rate>
+      <LimitRate>0.00006795</LimitRate>
+      <Qty>25%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>Update-XMLStopLoss -Currency GRS  -Rate 0.00006300 -LimitRate 0.00005670</Action>
+      <OrderOpenDate>2017-12-11 09:48:20UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>8d372f0c-a98f-44c1-8976-523043c19142</OrderGuid>
+      <Market>BTC-GRS</Market>
+      <Currency>GRS</Currency>
+      <Type>Sell</Type>
+      <Rate>0.0000725</Rate>
+      <LimitRate>0.0000725</LimitRate>
+      <Qty>33%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>Update-XMLStopLoss -Currency GRS  -Rate 0.00006400 -LimitRate 0.00005760</Action>
+      <OrderOpenDate>2017-12-11 09:48:50UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+    <Order>
+      <OrderGuid>96462433-62aa-4f8e-9f89-bb31e5ee1fb1</OrderGuid>
+      <Market>BTC-GRS</Market>
+      <Currency>GRS</Currency>
+      <Type>Sell</Type>
+      <Rate>0.00007779</Rate>
+      <LimitRate>0.00007779</LimitRate>
+      <Qty>50%</Qty>
+      <Status>New</Status>
+      <uuid>
+      </uuid>
+      <Action>Update-XMLStopLoss -Currency GRS  -Rate 0.00006843 -LimitRate 0.00006159</Action>
+      <OrderOpenDate>2017-12-11 09:56:55UTC</OrderOpenDate>
+      <OrderCreationDate>
+      </OrderCreationDate>
+    </Order>
+  </Currency>
+</Coins>
